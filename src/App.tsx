@@ -1,5 +1,5 @@
 import { useState } from 'react';
-// credentials test comment
+
 function App() {
   const [word /* , setWord */] = useState('');
   const [guess, setGuess] = useState('');
